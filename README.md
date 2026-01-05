@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rizik-Issufo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rizik's statistics" /> 
-  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizik-Issufo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=5&exclude_repo=github-readme-stats&hide=cMake,css,scss,Less" />
+  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizik-Issufo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=5&exclude_repo=github-readme-stats&hide=cmake,css,scss,Less" />
 </div>
 
 <div>
