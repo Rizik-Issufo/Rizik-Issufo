@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+Rizik+Issufo+Here!+A+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rizik-Issufo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rizik's statistics" /> 
-  <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizik-Issufo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=5&exclude_repo=github-readme-stats&hide=cmake,css,scss,Less" />
-</div>
-
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
