@@ -10,7 +10,7 @@
 
 [![Rizik Issufo's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rizik-Issufo&bg_color=06400&color=01c7f9&line=eb0046&point=181616&area=true&hide_border=true)](<[https://github.com/Rizik-Issufo](https://github.com/Rizik-Issufo)/github-readme-activity-graph>)
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Rizik-issufo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rizik-issufo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rizik-issufo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
